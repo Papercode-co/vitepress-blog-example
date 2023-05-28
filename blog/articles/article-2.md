@@ -1,6 +1,6 @@
 ---
-title: My new Article
-date: 2023-05-25
+title: My new Article 2
+date: 2023-05-29
 description: Non voluptas deleniti non laudantium magnam ea culpa ipsam At reiciendis officia aut nulla placeat qui magnam natus.
 ---
 
